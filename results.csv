@@ -72,3 +72,855 @@ weighted avg       0.99      0.99      0.99       221
    macro avg       0.96      0.97      0.97       221
 weighted avg       0.97      0.97      0.97       221
 ",2020-08-11 15:54:30.302799
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 14:46:40.118231
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 14:46:48.277840
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 14:47:31.686526
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:10:05.396238
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:12:03.008087
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:12:16.399346
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:12:47.456733
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:12:53.593735
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:13:04.481646
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:14:25.926102
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:15:10.609178
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-13 15:20:10.548737
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:51:52.663469
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:52:03.166210
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:52:14.625506
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:52:24.752796
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:52:35.533099
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:52:59.909561
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:53:10.345289
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:55:18.702643
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 14:55:28.653453
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 19:32:50.938593
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 19:33:45.479505
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 19:35:05.901800
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-14 19:35:28.973147
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+          73       0.95      0.97      0.96        39
+          80       0.97      0.95      0.96        41
+          90       0.84      0.84      0.84        31
+         100       0.96      0.96      0.96       110
+
+    accuracy                           0.95       221
+   macro avg       0.93      0.93      0.93       221
+weighted avg       0.95      0.95      0.95       221
+",2020-08-14 19:35:49.926412
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       125
+           1       0.96      0.98      0.97        54
+           2       0.98      0.98      0.98        42
+
+    accuracy                           0.99       221
+   macro avg       0.98      0.98      0.98       221
+weighted avg       0.99      0.99      0.99       221
+",2020-08-14 19:35:52.637746
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+          90       1.00      0.95      0.97        78
+         100       0.92      0.95      0.94        38
+         115       0.92      1.00      0.96        36
+         130       1.00      1.00      1.00        69
+
+    accuracy                           0.97       221
+   macro avg       0.96      0.97      0.97       221
+weighted avg       0.97      0.97      0.97       221
+",2020-08-14 19:35:55.951934
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:42:34.065492
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+          73       0.95      0.97      0.96        39
+          80       0.97      0.95      0.96        41
+          90       0.84      0.84      0.84        31
+         100       0.96      0.96      0.96       110
+
+    accuracy                           0.95       221
+   macro avg       0.93      0.93      0.93       221
+weighted avg       0.95      0.95      0.95       221
+",2020-08-21 22:42:43.105820
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       125
+           1       0.96      0.98      0.97        54
+           2       0.98      0.98      0.98        42
+
+    accuracy                           0.99       221
+   macro avg       0.98      0.98      0.98       221
+weighted avg       0.99      0.99      0.99       221
+",2020-08-21 22:42:46.865266
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+          90       1.00      0.95      0.97        78
+         100       0.92      0.95      0.94        38
+         115       0.92      1.00      0.96        36
+         130       1.00      1.00      1.00        69
+
+    accuracy                           0.97       221
+   macro avg       0.96      0.97      0.97       221
+weighted avg       0.97      0.97      0.97       221
+",2020-08-21 22:42:50.926012
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:43:31.281792
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:43:54.028284
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:47:27.267522
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:47:47.461092
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:48:26.047139
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:48:43.199490
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:48:58.024333
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:49:30.910043
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:52:26.744718
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:52:47.555299
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:54:35.467316
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           3       1.00      1.00      1.00        82
+          20       1.00      1.00      1.00        70
+         100       1.00      1.00      1.00        69
+
+    accuracy                           1.00       221
+   macro avg       1.00      1.00      1.00       221
+weighted avg       1.00      1.00      1.00       221
+",2020-08-21 22:56:23.726095
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+          73       0.95      0.97      0.96        39
+          80       0.97      0.95      0.96        41
+          90       0.84      0.84      0.84        31
+         100       0.96      0.96      0.96       110
+
+    accuracy                           0.95       221
+   macro avg       0.93      0.93      0.93       221
+weighted avg       0.95      0.95      0.95       221
+",2020-08-21 22:56:32.579789
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+           0       1.00      0.99      1.00       125
+           1       0.96      0.98      0.97        54
+           2       0.98      0.98      0.98        42
+
+    accuracy                           0.99       221
+   macro avg       0.98      0.98      0.98       221
+weighted avg       0.99      0.99      0.99       221
+",2020-08-21 22:56:38.121352
+0,"XGBClassifier(base_score=0.5, booster=None, colsample_bylevel=1,
+              colsample_bynode=1, colsample_bytree=0.7, gamma=0.1, gpu_id=-1,
+              importance_type='gain', interaction_constraints=None,
+              learning_rate=0.1, max_delta_step=0, max_depth=5,
+              min_child_weight=11, missing=nan, monotone_constraints=None,
+              n_estimators=100, n_jobs=-1, num_parallel_tree=1,
+              objective='multi:softprob', random_state=24, reg_alpha=0,
+              reg_lambda=1, scale_pos_weight=1, seed=24, subsample=0.8,
+              tree_method=None, validate_parameters=False, verbosity=None)","              precision    recall  f1-score   support
+
+          90       1.00      0.95      0.97        78
+         100       0.92      0.95      0.94        38
+         115       0.92      1.00      0.96        36
+         130       1.00      1.00      1.00        69
+
+    accuracy                           0.97       221
+   macro avg       0.96      0.97      0.97       221
+weighted avg       0.97      0.97      0.97       221
+",2020-08-21 22:56:44.933286
